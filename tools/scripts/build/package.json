@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/freeCodeCamp/freeCodeCamp#readme",
   "devDependencies": {
-    "debug": "^4.0.1",
+    "debug": "^4.4.3",
     "dotenv": "^6.0.0",
-    "jest": "^24.8.0"
+    "jest": "^30.2.0"
   }
 }
