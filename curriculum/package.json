@@ -51,7 +51,7 @@
     "joi-objectid": "^2.0.0",
     "jquery": "^3.4.1",
     "js-yaml": "^3.12.0",
-    "jsdom": "^12.2.0",
+    "jsdom": "^28.1.0",
     "lint-staged": "^7.2.0",
     "live-server": "^1.2.1",
     "lodash": "^4.17.15",
@@ -59,7 +59,7 @@
     "puppeteer": "^1.19.0",
     "readdirp-walk": "^1.7.0",
     "rx": "^4.1.0",
-    "semantic-release": "^15.13.24",
+    "semantic-release": "^25.0.3",
     "validator": "^10.4.0"
   },
   "keywords": [
